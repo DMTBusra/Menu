@@ -1,0 +1,22 @@
+.photo{
+  width: 50%;
+  border: 4px solid rgb(133, 47, 47);
+  
+}
+.contain{
+  display: flex;
+  padding: 10px;
+}
+header{
+  display: flex;
+  justify-content: space-around;
+}
+.item-text{
+  color:grey;
+}
+.price{
+  color: rgb(165, 80, 80);
+}
+.item-info{
+  padding-left: 10px;
+}
